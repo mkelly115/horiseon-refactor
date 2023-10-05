@@ -1,4 +1,4 @@
-# horiseon-refactor
+# Horiseon-refactor
 
 The purpose of this project was to refactor and clean up a web page while making it more accesible as well.
 
