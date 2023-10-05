@@ -2,7 +2,7 @@
 
 The purpose of this project was to refactor and clean up a web page while making it more accesible as well.
 
-To accomplish this, I broke up the large amount of <div> tags within the page into more concise and semantic tags (such as <header>, <section>,<article>). This allows easier CSS changes down the line if needed, as well as makes it easier to read the source and understand what the webpage is trying to accomplish.
+To accomplish this, I broke up the large amount of div tags within the page into more concise and semantic tags (such as header, section,article). This allows easier CSS changes down the line if needed, as well as makes it easier to read the source and understand what the webpage is trying to accomplish.
 
 All photos were also given alt tags with descriptions to allow people with screen readers or other accesibility devices to understand the content on the page.
 
